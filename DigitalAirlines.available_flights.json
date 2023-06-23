@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6494d4b1baa68bd557b2fdf5"
+  },
+  "originAirport": "italy",
+  "destinationAirport": "france",
+  "date": "2023-08-13",
+  "available_tickets": {
+    "business": 34,
+    "economy": 68
+  },
+  "ticket_cost": {
+    "business": "90$",
+    "economy": "55$"
+  }
+}]

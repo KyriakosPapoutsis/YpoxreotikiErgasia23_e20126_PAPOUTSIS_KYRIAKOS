@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6494eae79e533473fd9c3985"
+  },
+  "flight": {
+    "$oid": "6494d4b1baa68bd557b2fdf5"
+  },
+  "name": "mike",
+  "surname": "dean",
+  "passport_number": "a69676",
+  "date_of_birth": "1999-12-12",
+  "email": "john@gmail.com",
+  "ticket_class": "economy"
+}]

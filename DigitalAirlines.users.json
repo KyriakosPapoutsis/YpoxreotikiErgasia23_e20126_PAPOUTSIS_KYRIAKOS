@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "649336e0fc23b9a99fa52c84"
+  },
+  "username": "admin",
+  "email": "k@gmail.com",
+  "password": "123",
+  "isAdmin": true
+},
+{
+  "_id": {
+    "$oid": "6494eaa09e533473fd9c3984"
+  },
+  "username": "mike",
+  "surname": "dean",
+  "email": "john@gmail.com",
+  "password": "222",
+  "date_of_birth": "1999-12-12",
+  "country_of_origin": "Greece",
+  "passport_number": "a69676"
+}]
